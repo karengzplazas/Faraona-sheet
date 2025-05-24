@@ -1,7 +1,5 @@
 # RESUMEN EJECUTIVO – PIRÁMIDE DE LA SABIDURÍA
 
-## Sección | Descripción
-
 ### **Título**
 **Resumen Ejecutivo – Proyecto de Construcción de la Pirámide de la Sabiduría**
 
